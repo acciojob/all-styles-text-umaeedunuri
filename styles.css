@@ -2,9 +2,9 @@
 /* Your CSS Code here. */
 .container{
 	width:200px;
-	background-color:#800080;
+	background-color:purple;
 	border-left-style: solid;
-	border-left-color:#008000;
+	border-left-color:green;
 	border-left-width:5px;
 	padding:10px 10px 10px 10px;
 	font-size:20px;
