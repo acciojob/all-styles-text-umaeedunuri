@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+div{
+	width:200px;
+	background-color:#800080;
+	border-left-style: solid;
+	border-left-color:#008000;
+	border-left-width:5px;
+	padding:10px;
+	font-size:20px;
+	color:white;
+	
+}
